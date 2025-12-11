@@ -9,9 +9,9 @@ import zipfile
 import os
 os.environ["GOOGLE_API_KEY"] = os.getenv("gemini")
 
-st.title("Portfolio Website Generator")
+st.title("Website Generator")
 
-st.set_page_config(page_title="Portfolio Website",page_icon="😊")
+st.set_page_config(page_title="AI Website Generator")
 
 prompt=st.text_area("Enter your prompt here")
 
@@ -60,3 +60,4 @@ Follow this exact output format (do not add anything extra):
                        file_name="website.zip")
     
     st.write("Website Generated Successfully!")
+
