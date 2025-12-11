@@ -33,12 +33,12 @@ This project leverages **Generative AI** to automatically generate a fully funct
 ## Running the App:
 
 1. Clone this repository:
-   
+   ```bash
     git clone https://github.com/your-username/portfolio-website-generator.git
     cd portfolio-website-generator
 
 2. Run the Streamlit app:
-
+   ```bash
    streamlit run app.py
  
 
