@@ -39,6 +39,6 @@ This project leverages **Generative AI** to automatically generate a fully funct
 
 2. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
  
 
