@@ -9,7 +9,6 @@ This project leverages **Generative AI** to automatically generate a fully funct
 - **Downloadable ZIP:**: Get the complete website (index.html, style.css, script.js) in a ZIP file for quick deployment.
 
 ## How It Works
-![Workflow Diagram Placeholder - A diagram showing flow from Resume Upload -> Text Extraction -> LLM 1 Data Extraction -> LLM 2 Code Generation -> ZIP Download -> Deployment]
 1. **Upload Your Resume**: The user uploads a PDF or DOCX file via the Streamlit interface
 2. **Text Extraction**: A Language Model processes the text to structure key details (skills, experience, education) and generate the website code. 
 3. **Download & Deploy**: your portfolio website.
